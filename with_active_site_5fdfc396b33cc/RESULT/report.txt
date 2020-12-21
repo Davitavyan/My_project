@@ -1,0 +1,30 @@
+DOCKTHOR PORTAL - REPORT
+
+Starting DockThor ...
+
+Date: Sunday, December 20 2020, at 18:37:30
+
+>Software Versions:
+DockThor 013_005_202
+Dtstatistic v4
+DockTScore 007_000_001
+
+======================================================
+INVALID LIGAND LIST
+
+>>> Step1) Docking: failed 1 out of 15
+ligand_db94918635_1
+
+
+>>> Step2) Clustering: failed 0 out of 14
+
+
+>>> Step3) Affinity Prediction: failed 0 out of 14
+
+
+======================================================
+
+... Done!
+
+Date: Sunday, December 20 2020, at 18:43:50
+Total running time: 6 minute(s) and 20 second(s).

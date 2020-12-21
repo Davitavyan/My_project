@@ -1,0 +1,30 @@
+INPUT FILES
+
+protein = protein_fc20d10317.in
+ligand set size = 15
+ligand files = ligand_153698eba3;ligand_1a14893726;ligand_d6ba968dbe;ligand_a8294a0a1c;ligand_a13603ff4a;ligand_07937df439;ligand_246295c4f9;ligand_58672ea592;ligand_b7e5dce9e2;ligand_9bb265fe2c;ligand_acbff919f8;ligand_2c545ef4c1;ligand_6d36e4b4cc;ligand_97f425cd0;ligand_db94918635
+cofactor set size = 0
+cofactor files = 
+
+GRID SETTINGS
+
+center x = 10.7
+center y = 38.3
+center z = -3.7
+total size x = 20
+total size y = 20
+total size z = 20
+discretization = 0.25
+
+GENETIC ALGORITHM SETTINGS
+
+number of evaluations = 500000
+population size = 750
+number of runs = 12
+seed at run #1 = -1985
+
+JOB INFO
+
+submission date = 2020-12-20 19:35:18
+job name = with_active_site_5fdfc396b33cc
+ID = Dock@Dock.CBO2BBJSQT

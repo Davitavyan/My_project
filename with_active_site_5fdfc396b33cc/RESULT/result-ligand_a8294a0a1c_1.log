@@ -1,0 +1,4 @@
+File                                    Model     T.Energy       I.Energy       vdW            Coul           NumRotors      RMSD           Score          
+ligand_a8294a0a1c_1_run_3.log           1         2.334          -23.865        -15.254        -8.611         4              0.000          -7.188         
+ligand_a8294a0a1c_1_run_3.log           4         4.735          -21.588        -16.851        -4.737         4              2.181          -7.102         
+ligand_a8294a0a1c_1_run_4.log           3         4.773          -22.085        -14.545        -7.540         4              2.058          -7.273         
